@@ -45,8 +45,12 @@ You the continue with Power BI and creat your own Dashborad of your choice.
 Then Publish it. 
 
 
-Published dashboard:
+My Published dashboards:
 
 https://app.powerbi.com/groups/me/reports/2f1a0664-c7e7-4303-801f-6859b1418867/ReportSection
+
+
+https://app.powerbi.com/groups/me/reports/1bf5ae26-7070-492c-a62b-f63e6a6036de/ReportSection
+
 
 
