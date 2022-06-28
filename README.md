@@ -9,6 +9,9 @@ https://app.powerbi.com/groups/me/reports/2f1a0664-c7e7-4303-801f-6859b1418867/R
 https://app.powerbi.com/groups/me/reports/1bf5ae26-7070-492c-a62b-f63e6a6036de/ReportSection
 
 
+https://app.powerbi.com/groups/me/reports/a940100e-f3b6-4a59-905a-8979693bc62f/ReportSection
+
+
 Python and Power BI Dashboard.
 
 Requirements :
